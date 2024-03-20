@@ -1,0 +1,10 @@
+CREATE TABLE CONVERSATION (
+    id INTEGER,
+    choices VARCHAR,
+    PRIMARY KEY (id)
+);
+CREATE TABLE LEARNING (
+    id INTEGER,
+    choices VARCHAR,
+    PRIMARY KEY (id)
+);
