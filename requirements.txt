@@ -1,0 +1,6 @@
+aiogram
+logging
+asyncio
+matplotlib
+networkx
+psycopg2
